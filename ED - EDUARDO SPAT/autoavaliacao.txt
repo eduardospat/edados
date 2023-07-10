@@ -1,0 +1,18 @@
+Peço perdão pelo atraso na entrega, tinha realizado a maior parte do trabalho (assim pensei), algumas semanas atrás e deixei o que pensava ser pouca coisa de última hora.
+
+Desenvolvimento (8/10): Consegui desenvolver o T3 e (diria que 65-70%) do T4, além de todos trabalhos na matéria de Laboratório de Programação II obtendo média 8,17 na mesma, e considero isso pelo fato das duas matérias andarem muito próximas e tratarem dos mesmos assuntos.
+
+Domínio (7,0/10) : Ao tratar de TADs, filas, pilhas, alocações e árvores binárias, tive certas complicações para resolver certos trabalhos, mas foram dificuldades que já superei e resolvi para entender o necessário do assunto. Já para implementação de árvore em heap tenho ressalvas, e principalmente grafos, meu entendimento é menor e a dificuldade é maior, como se pode ver não consegui implementar corretamente a inserção de dados no grafo do T4 bem como não consegui checar a questão do custo mínimo.
+
+TAD: 1/1
+TADs em C: 1/1
+uso de alocação dinâmica de memória: 0.9/1 (certas vezes preciso arrumar erros)
+estruturas lineares (listas, filas, pilhas, deques): 1/1
+TADs de estruturas lineares (alocação contígua, alocação encadeada simples ou dupla): 0.8/1
+árvores: 0.9/1
+árvore binária de busca 1/1
+implementação de árvore (encadeada, em heap): 0.7/1
+grafos e sua implementação 0.5/1
+algoritmos de grafos (ordem topológica, custo mínimo, caminho mais curto) 0.6/1
+
+No geral, desde o início do semestre até agora meu conhecimento ficou muito mais amplo e organizado principalmente pelo uso de TADs, certos assuntos ainda vou buscar melhorar, pretendo refazer todos os trabalhos de Lab (t2-t5 TADs até Grafos), e deixá-los bem polidos para ter certeza que o assunto será dominado.
